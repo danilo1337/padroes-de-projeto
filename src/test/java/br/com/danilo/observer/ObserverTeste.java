@@ -2,8 +2,8 @@ package br.com.danilo.observer;
 
 import org.junit.Test;
 
-import br.com.danilo.observable.Comentario;
-import br.com.danilo.observable.Usuario;
+import br.com.danilo.observer.Comentario;
+import br.com.danilo.observer.Usuario;
 
 public class ObserverTeste {
 	

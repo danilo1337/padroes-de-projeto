@@ -1,4 +1,4 @@
-package br.com.danilo.observable;
+package br.com.danilo.observer;
 
 import java.util.Observable;
 
