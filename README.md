@@ -11,3 +11,15 @@
 **Referência Bibliográfica:** GAMMA, Erich; HELM, Richard; JOHSON, Ralph; VLISSIDES, John. Padrões de projeto:  soluções reutilizáveis de software orientado a objetos. Porto Alegre: Bookman, 2000.
 
 <h1 aling="center">Builder</h1> <br>
+
+<h1 aling="center">Decorator</h1> <br>
+
+<h1 aling="center">Observer</h1> <br>
+
+<h1 aling="center">Proxy</h1> <br>
+
+<h1 aling="center">Singleton</h1> <br>
+
+<h1 aling="center">Strategy</h1> <br>
+
+<h1 aling="center">Template</h1> <br>
